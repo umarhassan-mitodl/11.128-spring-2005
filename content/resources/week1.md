@@ -5,6 +5,8 @@ description: The resource provides information about information processing task
 file: /courses/11-128-information-technology-and-the-labor-market-spring-2005/518fbc49dfcc7e9ddbff334b40386944_week1.pdf
 file_size: 50590
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: The resource examines some aspects of the use of computers in the c
 file: /courses/11-128-information-technology-and-the-labor-market-spring-2005/014fb98df95d0a5b9e1d0ee17bb54bbf_week11.pdf
 file_size: 49856
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

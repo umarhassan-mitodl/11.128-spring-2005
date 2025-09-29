@@ -5,6 +5,8 @@ description: The resource formalizes an idea that gaining computers? full benefi
 file: /courses/11-128-information-technology-and-the-labor-market-spring-2005/d1907faa087a11e50f6dcb71a5813a3a_week7.pdf
 file_size: 36614
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,6 +2,8 @@
 content_type: page
 description: The study materials section provides supplementary notes for midterm
   and final exam.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

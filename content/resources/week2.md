@@ -5,6 +5,8 @@ description: The resource reviews basic trends in occupation, industry, and the 
 file: /courses/11-128-information-technology-and-the-labor-market-spring-2005/be8570bfeaeb5ad81ec6cf35056ce251_week2.pdf
 file_size: 42241
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

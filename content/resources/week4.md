@@ -5,6 +5,8 @@ description: The resource reviews basic aspects of cognitive perception and info
 file: /courses/11-128-information-technology-and-the-labor-market-spring-2005/31a373e2d476ae4bd73ebfa912398479_week4.pdf
 file_size: 37522
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

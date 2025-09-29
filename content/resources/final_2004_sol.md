@@ -5,6 +5,8 @@ description: The resource provides information about the final examination and i
 file: /courses/11-128-information-technology-and-the-labor-market-spring-2005/8ae04d9855ac77fb5d9fbde25e38b47b_final_2004_sol.pdf
 file_size: 127401
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
