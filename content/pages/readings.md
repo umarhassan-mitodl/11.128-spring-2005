@@ -61,7 +61,7 @@ IT and Tasks I: Rules Based Applications Including Expert Systems
 
 Davis, Randall. "Knowledge Based Systems." *Science Magazine* (February 28, 1968): 957-963.
 
-McCarthy, John. "Some Expert System (sic) Need Common Sense." Stanford University, 1984. (Mimeo.) Also available here ([PDF](http://www-formal.stanford.edu/jmc/someneed.pdf)).
+McCarthy, John. "Some Expert System (sic) Need Common Sense." Stanford University, 1984. (Mimeo.) Also available here ({{% resource_link "06812b4b-38cb-4c55-8735-5ae3f084f118" "PDF" %}}).
 
 Mae, Fannie. "Understanding Desktop Underwriter." Research Department of the Federal National Mortgage Association. January 14, 2000. (Memo.)
 
@@ -187,7 +187,7 @@ Baily, Martin Neil, and Robert Z. Lawrence. "What Happened to the Great US Job M
 How Can Computers Substitute for/Complement Classroom Teachers? (Guest Lecture - Dr. Jill Burstein, Educational Testing Service)
 {{< tdclose >}}{{< tdopen >}}
 
-Burstein, Jill, et al. "*Criterion*: Online Essay Evaluation: An Application for Automated Evaluation of Student Essays." ([PDF](http://www.ets.org/Media/Research/pdf/erater_iaai03_burstein.pdf))
+Burstein, Jill, et al. "*Criterion*: Online Essay Evaluation: An Application for Automated Evaluation of Student Essays." ({{% resource_link "175492dd-c4b2-4443-9b84-b3ab15bbd4ce" "PDF" %}})
 
 Roschelle, Jeremy, et al. "Changing How and What Children Learn in School with Computer Based Technologies." *Children and Computer Technology* 10, no. 2 (Fall/Winter 2000): 76-101.
 
@@ -201,7 +201,7 @@ IT and Productivity
 
 Stiroh, Kevin J. "Information Technology and the U.S. Productivity Revival: What Do the Industry Data Say?" *American Economic Review* (December 2002).
 
-"Executive Summary and Synthesis of Findings from McKinsey and Company." [*How IT Enables Productivity Growth*](http://www.mckinsey.com/mgi/publications/it_prod_growth.asp). New York, NY: McKinsey Global Institute, October 2002.
+"Executive Summary and Synthesis of Findings from McKinsey and Company." {{% resource_link "8430d343-e750-4adb-a28a-b1d7bafa033b" "*How IT Enables Productivity Growth*" %}}. New York, NY: McKinsey Global Institute, October 2002.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
